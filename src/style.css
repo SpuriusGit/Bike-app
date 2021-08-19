@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Saira', sans-serif;
+}
+.main{
+    display: flex;
+    flex-direction: row;
+}
+@media (max-width: 991.98px) {
+    .main{flex-direction: column-reverse;}
+    .main-right-field{width: 100%;}
+}

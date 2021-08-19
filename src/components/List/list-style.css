@@ -1,0 +1,7 @@
+.list{
+    width: 55%;
+    height: 100%;
+}
+@media (max-width: 991.98px){
+    .list{width: 100%;}
+}

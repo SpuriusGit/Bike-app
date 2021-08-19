@@ -1,0 +1,37 @@
+.main-right-field{
+    display: flex;
+    flex-direction: column;
+    width: 45%;
+    border-left: 1px solid #C4C4C4;
+}
+.form{
+    height: 280px;
+}
+input,.description{
+    height: 30px;
+    width: 46%;
+    margin:5px 2%;
+    padding:5px 15px;
+    border-radius: 2px;
+    border:none;
+    background-color: #E8E8E8;
+}
+.description{
+    width: 96%;
+    height: 75px;
+    resize: none;
+}
+.save,.clear{
+    background-color: #696969;
+    color: #FFFFFF;
+    border-radius: 5px;
+    cursor: pointer;
+}
+@media (max-width: 991.98px){
+    .main-right-field{width: 100%;}
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
