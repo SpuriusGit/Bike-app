@@ -4,6 +4,9 @@
     box-sizing: border-box;
     font-family: 'Saira', sans-serif;
 }
+body{
+    background-color: darkgrey;
+}
 .main{
     display: flex;
     flex-direction: row;

@@ -12,9 +12,9 @@ import React from 'react';
             ref={ref}
             value={props.value}
             maxLength={props.maxlength}
-            max={props.max}
-            min={props.min}
-            pattern={props.pattern}
+            onInput={props.onInput}
+            onSubmit={props.submit}
+            required
         />
     );
 });
