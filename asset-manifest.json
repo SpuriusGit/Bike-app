@@ -1,20 +1,23 @@
 {
   "files": {
-    "main.css": "/Bike-app/static/css/main.e61ad12b.chunk.css",
-    "main.js": "/Bike-app/static/js/main.bbda53cd.chunk.js",
-    "main.js.map": "/Bike-app/static/js/main.bbda53cd.chunk.js.map",
+    "main.css": "/Bike-app/static/css/main.022083dd.chunk.css",
+    "main.js": "/Bike-app/static/js/main.fb0a5b74.chunk.js",
+    "main.js.map": "/Bike-app/static/js/main.fb0a5b74.chunk.js.map",
     "runtime-main.js": "/Bike-app/static/js/runtime-main.524b6765.js",
     "runtime-main.js.map": "/Bike-app/static/js/runtime-main.524b6765.js.map",
-    "static/js/2.9cca27a8.chunk.js": "/Bike-app/static/js/2.9cca27a8.chunk.js",
-    "static/js/2.9cca27a8.chunk.js.map": "/Bike-app/static/js/2.9cca27a8.chunk.js.map",
+    "static/css/2.21d4d2be.chunk.css": "/Bike-app/static/css/2.21d4d2be.chunk.css",
+    "static/js/2.0f287dbb.chunk.js": "/Bike-app/static/js/2.0f287dbb.chunk.js",
+    "static/js/2.0f287dbb.chunk.js.map": "/Bike-app/static/js/2.0f287dbb.chunk.js.map",
     "index.html": "/Bike-app/index.html",
-    "static/css/main.e61ad12b.chunk.css.map": "/Bike-app/static/css/main.e61ad12b.chunk.css.map",
-    "static/js/2.9cca27a8.chunk.js.LICENSE.txt": "/Bike-app/static/js/2.9cca27a8.chunk.js.LICENSE.txt"
+    "static/css/2.21d4d2be.chunk.css.map": "/Bike-app/static/css/2.21d4d2be.chunk.css.map",
+    "static/css/main.022083dd.chunk.css.map": "/Bike-app/static/css/main.022083dd.chunk.css.map",
+    "static/js/2.0f287dbb.chunk.js.LICENSE.txt": "/Bike-app/static/js/2.0f287dbb.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.524b6765.js",
-    "static/js/2.9cca27a8.chunk.js",
-    "static/css/main.e61ad12b.chunk.css",
-    "static/js/main.bbda53cd.chunk.js"
+    "static/css/2.21d4d2be.chunk.css",
+    "static/js/2.0f287dbb.chunk.js",
+    "static/css/main.022083dd.chunk.css",
+    "static/js/main.fb0a5b74.chunk.js"
   ]
 }
